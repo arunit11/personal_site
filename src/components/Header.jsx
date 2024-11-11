@@ -31,9 +31,6 @@ const Header = () => {
                 <Navbar.Link active={path === '/portfolio'}>
                     <Link to='/portfolio'>Portfolio</Link>
                 </Navbar.Link>
-                <Navbar.Link active={path === '/gallery'}>
-                    <Link to='/gallery'>Gallery</Link>
-                </Navbar.Link>
                 <Navbar.Link active={path === '/contact'}>
                     <Link to='/contact'>Contact</Link>
                 </Navbar.Link>
