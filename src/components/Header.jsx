@@ -9,8 +9,8 @@ const Header = () => {
     return (
         <Navbar fluid rounded   >
             <Navbar.Brand href="https://flowbite-react.com" >
-                <span className="self-center whitespace-nowrap tet-with text-xl font-semibold dark:text-white pacifico-regular bg-gradient-to-r from-teal-400 to-blue-500 mr-1 p-2 rounded-2xl">Pranav</span>
-                <span className='font-semibold text-xl pacifico-regular text-blue-500   gap-1 '>Coder</span>
+                <span className="self-center whitespace-nowrap tet-with text-xl font-semibold dark:text-white pacifico-regular bg-gradient-to-r from-teal-400 to-blue-500 mr-1 p-2 rounded-2xl">Arun</span>
+                <span className='font-semibold text-xl pacifico-regular text-blue-500   gap-1 '>B</span>
             </Navbar.Brand>
             <div className="flex md:order-2">
 
