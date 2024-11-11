@@ -9,19 +9,17 @@ const Home = () => {
         <div className="font-bold dark:text-white text-4xl">
           I'm{" "}
           <span className="px-2 py-1 mr-1 text-blue-500 rounded-lg">
-            Pranava
+            Arun
           </span>
-          <span>Muthu</span>
+          <span>B</span>
           <p className="text-sm font-semibold text-black bg-clip-text mt-4">
-            Certified MERN Stack Developer with a strong foundation <br /> in
-            full-stack web development. <br /> I have maintained 85 repositories
-            (projects) on GitHub to showcase my work.
+            A Passionate Engineering Graduate.
           </p>
           {/* Social Media Links */}
           <div className="flex mt-5 gap-8">
             {/* GitHub */}
             <a
-              href="https://github.com/pranava007"
+              href="https://github.com/arunit11"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -42,7 +40,7 @@ const Home = () => {
 
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/in/pranava-muthu-po-5609921b9/"
+              href="https://www.linkedin.com/in/#/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -59,72 +57,6 @@ const Home = () => {
                   clipRule="evenodd"
                 />
                 <path d="M7.2 8.809H4V19.5h3.2V8.809Z" />
-              </svg>
-            </a>
-
-            {/* GeeksforGeeks */}
-            <a
-              href="https://www.geeksforgeeks.org/user/pranavamuthu000/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <svg
-                className="w-6 h-6 text-green-600"
-                aria-hidden="true"
-                xmlns="http://www.w3.org/2000/svg"
-                fill="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  fillRule="evenodd"
-                  d="M9 2.221V7H4.221a2 2 0 0 1 .365-.5L8.5 2.586A2 2 0 0 1 9 2.22ZM11 2v5a2 2 0 0 1-2 2H4v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2h-7Zm-.293 9.293a1 1 0 0 1 0 1.414L9.414 14l1.293 1.293a1 1 0 0 1-1.414 1.414l-2-2a1 1 0 0 1 0-1.414l2-2a1 1 0 0 1 1.414 0Zm2.586 1.414a1 1 0 0 1 1.414-1.414l2 2a1 1 0 0 1 0 1.414l-2 2a1 1 0 0 1-1.414-1.414L14.586 14l-1.293-1.293Z"
-                  clipRule="evenodd"
-                />
-              </svg>
-            </a>
-
-            {/* LeetCode */}
-            <a
-              href="https://leetcode.com/u/pranavamuthu/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <svg
-                className="w-6 h-6 text-yellow-500"
-                aria-hidden="true"
-                xmlns="http://www.w3.org/2000/svg"
-                fill="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  stroke="currentColor"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth="2"
-                  d="m8 8-4 4 4 4m8 0 4-4-4-4m-2-3-4 14"
-                />
-              </svg>
-            </a>
-
-            <a
-              href="https://www.youtube.com/@pranavcoder-h1b"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <svg
-                class="w-6 h-6 text-red-500"
-                aria-hidden="true"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                fill="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  fill-rule="evenodd"
-                  d="M21.7 8.037a4.26 4.26 0 0 0-.789-1.964 2.84 2.84 0 0 0-1.984-.839c-2.767-.2-6.926-.2-6.926-.2s-4.157 0-6.928.2a2.836 2.836 0 0 0-1.983.839 4.225 4.225 0 0 0-.79 1.965 30.146 30.146 0 0 0-.2 3.206v1.5a30.12 30.12 0 0 0 .2 3.206c.094.712.364 1.39.784 1.972.604.536 1.38.837 2.187.848 1.583.151 6.731.2 6.731.2s4.161 0 6.928-.2a2.844 2.844 0 0 0 1.985-.84 4.27 4.27 0 0 0 .787-1.965 30.12 30.12 0 0 0 .2-3.206v-1.516a30.672 30.672 0 0 0-.202-3.206Zm-11.692 6.554v-5.62l5.4 2.819-5.4 2.801Z"
-                  clip-rule="evenodd"
-                />
               </svg>
             </a>
           </div>
