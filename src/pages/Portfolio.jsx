@@ -4,33 +4,11 @@ import hotal from '../assets/hotal.png';
 const projectData = [
   {
     id: 1,
-    name: "Hotel Management Booking System",
+    name: "Course Landing Page",
     image: hotal,
     date: '1/5/2024',
-    description: 'Implemented booking, room availability, and secure payment handling',
-  },
-  {
-    id: 2,
-    name: "Hotel Management Booking System",
-    image: hotal,
-    date: '1/5/2024',
-    description: 'Implemented booking, room availability, and secure payment handling',
-  },
-  {
-    id: 3,
-    name: "Hotel Management Booking System",
-    image: hotal,
-    date: '1/5/2024',
-    description: 'Implemented booking, room availability, and secure payment handling',
-  },
-  {
-    id: 4,
-    name: "Hotel Management Booking System",
-    image: hotal,
-    date: '1/5/2024',
-    description: 'Implemented booking, room availability, and secure payment handling',
-  },
- 
+    description: 'Landing page advertise Course',
+  }, 
 ];
 
 const Portfolio = () => {
