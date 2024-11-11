@@ -13,13 +13,10 @@ const Contact = () => {
           <strong>Email:</strong> arunit2104@gmail.com
         </p>
         <p className="text-gray-900 dark:text-gray-300 mt-4">
-          <strong>GitHub:</strong> <a href="https://github.com/arunit11" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">🌐 github.com/pranava007</a>
+          <strong>GitHub:</strong> <a href="https://github.com/arunit11" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">🌐 github.com/arunit11</a>
         </p>
         <p className="text-gray-900 dark:text-gray-300 mt-2">
-          <strong>LinkedIn:</strong> <a href="#/" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">🔗 linkedin.com/in/pranava-muthu</a>
-        </p>
-        <p className="text-gray-900 dark:text-gray-300 mt-2">
-          <strong>WhatsApp:</strong> <a href="https://wa.me/8825460917" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">📱 +91 6383218808</a>
+          <strong>WhatsApp:</strong> <a href="https://wa.me/8825460917" className="text-blue-500 hover:underline" target="_blank" rel="noopener noreferrer">📱 +91 8825460917</a>
         </p>
       </div>
 
