@@ -31,32 +31,17 @@ const About = () => {
           {/* About Content */}
           <p className="mt-4 text-lg leading-relaxed text-gray-800 dark:text-gray-300 flex items-center">
             <i className="fas fa-map-marker-alt text-blue-500 mr-2"></i>
-            Hi, I’m Pranavamuthu from Karaikudi, a certified MERN stack developer from Guvi. I hold a Master's degree in Computer Applications (MCA).
+            Hi, I’m Arun A Passionate Engineering graduate.
           </p>
           
           <p className="mt-4 text-lg leading-relaxed text-gray-800 dark:text-gray-300 flex items-center">
             <i className="fas fa-code text-blue-500 mr-2"></i>
-            My coding journey began in 2022, guided by Kumaration, an IT professional who provided me with valuable mentorship, project opportunities, and a stipend.
+            My coding journey began in 2023, guided by Class Advisor, an Teaching professional who provided me with valuable mentorship, project opportunities, and a stipend.
           </p>
           
-          <p className="mt-4 text-lg leading-relaxed text-gray-800 dark:text-gray-300 flex items-center">
-            <i className="fas fa-users text-blue-500 mr-2"></i>
-            During a 3-month internship under the Naan Mudhalvan government program, I mentored college students on Git, GitHub, and full-stack web development.
-          </p>
-          
-          <p className="mt-4 text-lg leading-relaxed text-gray-800 dark:text-gray-300 flex items-center">
-            <i className="fas fa-chalkboard-teacher text-blue-500 mr-2"></i>
-            I managed 120 students at Mahindra Engineering College and Anna University.
-          </p>
-  
           <p className="mt-4 text-lg leading-relaxed text-gray-800 dark:text-gray-300 flex items-center">
             <i className="fas fa-laptop-code text-blue-500 mr-2"></i>
             All my project work is well-maintained in GitHub repositories, and I continue to expand my skills in development.
-          </p>
-          
-          <p className="mt-4 text-lg leading-relaxed text-gray-800 dark:text-gray-300 flex items-center">
-            <i className="fas fa-lock text-blue-500 mr-2"></i>
-            I'm currently learning web hacking to enhance my skills.
           </p>
         </div>
       </div>
